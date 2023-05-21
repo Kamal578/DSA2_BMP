@@ -1,0 +1,3 @@
+- Open up a bash shell in the directory where symasym.c is located.
+- run the command: bash run.sh symasym.c
+- Then with the usage of executable file, you can run the program. Don't forget about command line arguments.
