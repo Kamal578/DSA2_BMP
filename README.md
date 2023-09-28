@@ -52,3 +52,5 @@ The image generation program provides a flexible and versatile tool for creating
 This project is developed by Ahmadov Kamal and Osmanli Ravan as part of the course "Advanced Data Structures and Algorithms" at French-Azerbaijani University.
 
 For any questions or inquiries, please contact
+
+P. S. the received grade was 16/20
